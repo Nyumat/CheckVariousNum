@@ -1,7 +1,6 @@
 # Check-If-Prime-TEKN
 
-This is a program that I wrote using Swift 4.2 that creates a random number 
-and checks if it is a prime or composite number. 
+This is a place where I'm submitting code that I wrote for fun which does various task on numbers.
 
-The main use of the program is to help me get accumulated to the language with an easy program.
+The main use of the program is to help me get accumulated to the language (swift) with easy problems.
 
