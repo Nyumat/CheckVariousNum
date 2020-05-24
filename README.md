@@ -1,4 +1,4 @@
-# Check-If-Prime-TEKN
+# CheckVariousNum Made By Tom N
 
 This is a place where I'm submitting code that I wrote for fun which does various task on numbers.
 
